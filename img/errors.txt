@@ -1,0 +1,3 @@
+[2020-02-10 12:47:51] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-02-10 12:47:51] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-02-10 12:47:51] layer "+ copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
